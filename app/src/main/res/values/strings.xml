@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="explre">explre</string>
+    <string name="search">search</string>
+    <string name="favorite">favorite</string>
+    <string name="hello_edw">Hello Edw</string>
+    <string name="where_are_we">where are we</string>
+    <string name="going_today">Going today</string>
+</resources>
